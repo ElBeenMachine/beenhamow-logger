@@ -1,7 +1,7 @@
 {
   "name": "beenhamow-logger",
   "version": "1.0.0",
-  "description": "My personal logger to make my code output look pretty",
+  "description": "My personal logger, providing useful information and a colour key to NodeJS logs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
