@@ -1,0 +1,28 @@
+{
+  "name": "beenhamow-logger",
+  "version": "1.0.0",
+  "description": "My personal logger to make my code output look pretty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElBeenMachine/beenhamow-logger.git"
+  },
+  "keywords": [
+    "console-logging",
+    "console",
+    "logging"
+  ],
+  "author": "Ollie Beenham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElBeenMachine/beenhamow-logger/issues"
+  },
+  "homepage": "https://github.com/ElBeenMachine/beenhamow-logger#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "moment": "^2.29.1"
+  }
+}
