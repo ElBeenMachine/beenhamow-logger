@@ -1,7 +1,7 @@
 const chalk = require("chalk");
 const moment = require("moment");
 
-module.exports = class Logger {
+module.exports = class logger {
 	static log (content) {
 		const date = `${moment().format("DD-MM-YYYY hh:mm:ss")}`;
 		const type = ` LOG `
