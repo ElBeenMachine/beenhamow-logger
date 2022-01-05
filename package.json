@@ -1,6 +1,6 @@
 {
   "name": "beenhamow-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My personal logger, providing useful information and a colour key to NodeJS logs",
   "main": "index.js",
   "scripts": {
